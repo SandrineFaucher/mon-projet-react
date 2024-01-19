@@ -1,0 +1,16 @@
+h1{
+    text-align: center;
+}
+.blocFormulaire{
+    background-color: antiquewhite;
+    box-shadow: 10px 5px 5px rgb(196, 193, 193);;
+    width: 30%;
+    padding: 30px;
+}
+form, .sectionReponse{
+    display: flex;
+    justify-content: center;
+}
+h2{
+    text-align: center;
+}
