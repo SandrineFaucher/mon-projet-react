@@ -115,7 +115,4 @@ function Formulaire() {
     );
 }
 
-
-
-
 export default Formulaire;

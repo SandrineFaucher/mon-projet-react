@@ -21,6 +21,9 @@ const Layout = () => {
           <li>
             <Link to="/formulaire">Formulaire</Link>
           </li>
+          <li>
+            <Link to="/appelapi">AppelApi</Link>
+          </li>
         </ul>
       </nav>
       </div>
